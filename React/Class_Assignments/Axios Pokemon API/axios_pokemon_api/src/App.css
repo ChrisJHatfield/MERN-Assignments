@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-flow: column;
+  margin: 0 auto;
+  width: 200px;
+  padding: 20px;
+}
+
+.App button {
+  color: white;
+  background-color: #666666;
+  height: 35px;
+  width: 220px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 0 20px 10px;
+}
+
+.App ul {
+  margin: 0;
+}
+
+.App li {
+  text-align: center;
+  padding: 2px;
+  font-size: 14pt;
+}

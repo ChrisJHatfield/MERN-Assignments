@@ -1,0 +1,25 @@
+.App {
+  padding: 30px;
+}
+
+.header {
+  font-size: 64pt;
+  font-family: sans-serif;
+}
+
+.list {
+  padding-left: 0px;
+}
+
+.list p {
+  font-size: 32pt;
+}
+
+.list ul {
+  list-style-type: none;
+  font-size: 14pt;
+}
+
+/* .list ul li::before{
+  content: "*";
+} */

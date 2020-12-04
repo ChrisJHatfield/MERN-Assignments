@@ -1,0 +1,27 @@
+.App {
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column;
+}
+
+.allTabs {
+  width: 100%;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tabs p {
+  margin: 5px;
+  text-align: center;
+}
+
+.content {
+  border: 1px solid gray;
+  height: 200px;
+  margin: 15px 5px;
+  padding-left: 10px;
+  font-size: 14pt;
+}

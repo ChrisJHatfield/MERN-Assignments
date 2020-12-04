@@ -1,0 +1,37 @@
+.searchBar {
+    margin: 40px 0;
+}
+
+.searchBar label {
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+
+.searchBar select {
+    background: #efefef;
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 140px;
+    margin: 0 30px 0 10px;
+    padding: 0 10px;
+}
+
+.searchBar input {
+    background: #efefef;
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 40px;
+    margin: 0 30px 0 10px;
+    padding-left: 10px;
+}
+
+.searchBar button {
+    background: #0019f8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 35px;
+    width: 110px;
+}

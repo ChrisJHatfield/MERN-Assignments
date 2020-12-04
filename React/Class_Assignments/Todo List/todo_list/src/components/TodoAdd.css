@@ -1,0 +1,26 @@
+.add form {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    padding-left: 20px;
+}
+
+.add input {
+    background: #efefef;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    font-size: 14pt;
+    font-weight: 500;
+    padding-left: 20px;
+}
+
+.add button {
+    background-color: #0019f8;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 15px;
+}

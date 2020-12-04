@@ -1,0 +1,28 @@
+.form {
+    margin: 20px 0 20px 60px;
+}
+
+.form label {
+    font-weight: bold;
+    font-size: 14pt;
+    font-family: sans-serif;
+    height: 40px;
+}
+
+.form input {
+    margin: 0 20px;
+    height: 30px;
+    width: 250px;
+    background: #efefef;
+    border: none;
+    border-radius: 6px;
+}
+
+.form button {
+    border-radius: 6px;
+    height: 32px;
+    width: 60px;
+    font-size: 12pt;
+    border: 1px solid #dbdbdb;
+    background: white;
+}

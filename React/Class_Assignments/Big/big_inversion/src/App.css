@@ -1,0 +1,9 @@
+.App {
+  margin: 0 auto;
+  width: 300px;
+  padding: 30px;
+}
+
+.person-card h1 {
+  margin-top: 30px; 
+}

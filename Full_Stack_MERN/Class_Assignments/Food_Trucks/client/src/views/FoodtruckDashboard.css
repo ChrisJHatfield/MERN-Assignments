@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+}
+
+.food-trucks {
+    width: 600px;
+    min-height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: 1px solid black;
+}
+
+.truck { 
+    display: flex; 
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 20px 40px;
+    margin: 10px;
+    background: lightGrey;
+    text-align: left;
+}
+
+.truck img {
+    width: 50px;
+    height: 50px;
+    }
+
+.truck div {
+    width: 30%;
+}
+
+.edit-button {
+    background: lightblue;
+    border: 1px solid black;
+    box-shadow: 1px 3px;
+    margin: 5px
+}
+
+.review-button {
+    background: green;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 1px 3px black;
+}

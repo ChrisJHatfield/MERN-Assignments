@@ -1,0 +1,18 @@
+* {
+  margin: 0 auto;
+}
+
+.App {
+  margin: 40px;
+  font-family: sans-serif;
+}
+
+.person-card {
+  min-height: 100px;
+  width: 200px;
+}
+
+.person-card p {
+  margin: 25px 0;
+}
+

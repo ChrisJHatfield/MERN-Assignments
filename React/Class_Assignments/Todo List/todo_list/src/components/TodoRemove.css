@@ -1,0 +1,12 @@
+.removeButton button {
+    background-color: black;
+    color: white;
+    border: black;
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+}
+
+.removeButton {
+    width: 100px;
+}

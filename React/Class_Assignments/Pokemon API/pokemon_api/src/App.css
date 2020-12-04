@@ -1,0 +1,29 @@
+.App {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.App button {
+  margin: 20px 40px 20px 0;
+  background-color: #666666;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  width: 160px;
+  height: 25px;
+}
+
+.App ul {
+  width: 100px;
+  margin: 0;
+  text-align: center;
+}
+
+.App li {
+  list-style-position: outside;
+  font-size: 14pt;
+}
+

@@ -1,0 +1,19 @@
+div.check {
+    width: 0px;
+    padding-top: 3px;
+}
+
+.check input {
+    background-color: gray;
+    border-radius: 6px;
+    height: 17px;
+    width: 17px;
+}
+
+.check:hover input {
+    background-color: #ccc;
+}
+
+.check input:checked {
+    background-color: #c4c4c4;
+}
